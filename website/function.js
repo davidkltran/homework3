@@ -31,7 +31,7 @@ const output2 = document.getElementById("output2")
 output2.innerHTML = 'The sum is ' + sum
 
 const output3 = document.getElementById("output3")
-output3.innerHTML = 'The binaries are ' + binaryArr
+output3.innerHTML = 'The binaries are ' + arr
 
 
 
